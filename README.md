@@ -15,3 +15,6 @@ aleatória e o tweet traduzido para o idioma de escolha.
 
 Lembrando que para que o programa funcione sempre, sem que você precise deixar ele executando no seu pc 24h, é necessário utilizar um servidor que irá deixar a execução 
 do seu programa em pé. No caso, foi utilizado a plataforma Heroku.
+
+Documentação do pacote Twit: https://github.com/ttezel/twit
+Servidor que irá rodar o programa: https://dashboard.heroku.com/login
